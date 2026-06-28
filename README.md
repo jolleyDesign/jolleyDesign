@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Alex Jolley 👋
+# Hi, I'm Jolley 👋
 
 **Head of Design @ Arivo. Open source enthusiast. Hobbyist developer.**
 
