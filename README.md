@@ -6,7 +6,7 @@
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40jolleyDesign-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/jolleyDesign)
 
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/jolleyDesign.svg?variant=secondary&size=sm)](https://github.com/jolleyDesign?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/jolleyDesign.svg?variant=secondary&size=sm)](https://github.com/jolleyDesign?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-42-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/jolleyDesign?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-SLC%2C_UT-6366f1.svg?logo=googlemaps&variant=ghost&size=sm) ![Company](https://www.shieldcn.dev/badge/Company-Arivo-1f2937.svg?logo=building&variant=ghost&size=sm)
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/jolleyDesign.svg?variant=secondary&size=sm)](https://github.com/jolleyDesign?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/jolleyDesign.svg?variant=secondary&size=sm)](https://github.com/jolleyDesign?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-42-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/jolleyDesign?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-SLC%2C_UT-6366f1.svg?logo=googlemaps&variant=ghost&size=sm)
 
 </div>
 
